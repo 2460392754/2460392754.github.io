@@ -3,9 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate && gulp",
-    "clean": "hexo clean",
-    "deploy": "hexo deploy",
+    "build": "hexo clean &&hexo generate && gulp",
     "server": "hexo server"
   },
   "hexo": {
