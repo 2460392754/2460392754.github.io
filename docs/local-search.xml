@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>面试官:如何自己手写一个vuex3?</title>
+    <link href="/2022/05/07/mini-project/mini-vuex3/"/>
+    <url>/2022/05/07/mini-project/mini-vuex3/</url>
+    
+    <content type="html"><![CDATA[<p><img src="/assets/mini-project/mini-vuex3.png" alt="实现功能"></p><h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><h3 id="地址"><a href="#地址" class="headerlink" title="地址"></a>地址</h3><p><a href="https://github.com/vuejs/vuex/tree/v3.6.2">源码地址:vuejs&#x2F;vuex@3.6.2</a></p><p><a href="https://github.com/2460392754/mini-project/tree/dev/mini-vuex3">myGithub:2460392754&#x2F;mini-vuex3</a></p><p><a href="http://blog.965.ink/">myBlog</a></p><h2 id="mini-项目结构"><a href="#mini-项目结构" class="headerlink" title="mini 项目结构"></a>mini 项目结构</h2><h2 id=""><a href="#" class="headerlink" title=""></a></h2><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><h2 id="推荐阅读"><a href="#推荐阅读" class="headerlink" title="推荐阅读"></a>推荐阅读</h2>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/05/06/hello-world/"/>
     <url>/2022/05/06/hello-world/</url>
