@@ -16,8 +16,6 @@ tags: [vue全家桶, vuex, mini-project]
 
 [myGithub:2460392754/mini-vuex3](https://github.com/2460392754/mini-project/tree/master/mini-vuex3)
 
-[myBlog](http://blog.965.ink/)
-
 ## 项目结构
 
 ```
@@ -595,4 +593,4 @@ export function mapActions() {
 
 手写一个 mini-vuex3 相对来说还是比较容易的，还是需要多看、多学、多写。
 
-项目地址：[地址](#地址)
+[#地址](#地址)
