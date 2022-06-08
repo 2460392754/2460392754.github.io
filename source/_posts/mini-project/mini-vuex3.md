@@ -2,13 +2,14 @@
 title: 面试官:如何自己手写一个mini的vuex3?
 excerpt: ' '
 date: 2022-05-07 10:22:37
-tags: [vue全家桶, vuex, mini-project]
-# banner_img: /assets/mini-project/mini-vuex3.png
+tags: [vue全家桶, vuex, vuex3, mini-project]
 ---
 
 ![实现功能](/assets/posts/mini-project/mini-vuex3.png)
 
 ## 介绍
+
+说来惭愧，这对于喜欢摸鱼的程序员来说，vue3 都发布这么久了，现在才开始阅读 vuex3 源码，现在分享一下个人对这次学习的总结，写的不好请大家轻喷。
 
 ### 地址
 
